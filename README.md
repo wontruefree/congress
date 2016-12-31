@@ -65,7 +65,7 @@ Copy the example config files:
 ```bash
 cp config/config.yml.example config/config.yml
 cp config/mongoid.yml.example config/mongoid.yml
-cp config.ru.example config.ru`
+cp config.ru.example config.ru
 ```
 
 You **don't need to edit these** to get started in development, the defaults should work fine.
